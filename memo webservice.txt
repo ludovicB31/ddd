@@ -1,0 +1,3 @@
+//Trouver des infos par name de pays
+---- WS : REST Countries
+--------------------------Use : https://restcountries.eu/rest/v2/name/[NOM PAYS]
